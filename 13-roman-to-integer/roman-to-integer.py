@@ -17,8 +17,3 @@ class Solution:
             else:
                 total += value
         return total
-            
-                
-
-            
-
